@@ -1,0 +1,308 @@
+{
+	"info": {
+		"_postman_id": "b4e7771c-0538-46e4-b095-b95bb9d97fa5",
+		"name": "update",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29092836",
+		"_collection_link": "https://interstellar-satellite-615454.postman.co/workspace/APIUSerTest~a5b5f6ad-3765-45e3-9e10-29bb0939e02a/collection/29092836-b4e7771c-0538-46e4-b095-b95bb9d97fa5?action=share&source=collection_link&creator=29092836"
+	},
+	"item": [
+		{
+			"name": "TC001",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"name\": \"jhbkjl@@@\",\n\t\"phoneNumber\": \"18343337087\",\n\t\"emergencyContact\": \"三梦奇缘\",\n\t\"emergencyPhone\": \"18343337024\",\n\t\"avatarUrl\": \"https://thirdwx.qlogo.cn/mmopen/vi_32/CiaGDhXjoywZ6yKbxCXSIIlWRJ9cHic8FpeGgkUbLdNib9SlYf6a0jiczJkLHhJYhghT2Bjput8RBkJAVyxZ8YwIFA/132\",\n\t\"username\": \"ozF5r5YVR4r9OysQxBjI9-89UbDk\",\n\t\"gender\": \"\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/update",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"update"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "GET",
+						"header": []
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"jhbkjl@@@\",\n\t\"phoneNumber\": \"18343337087\",\n\t\"emergencyContact\": \"三梦奇缘\",\n\t\"emergencyPhone\": \"18343337024\",\n\t\"avatarUrl\": \"https://thirdwx.qlogo.cn/mmopen/vi_32/CiaGDhXjoywZ6yKbxCXSIIlWRJ9cHic8FpeGgkUbLdNib9SlYf6a0jiczJkLHhJYhghT2Bjput8RBkJAVyxZ8YwIFA/132\",\n\t\"username\": \"ozF5r5YVR4r9OysQxBjI9-89UbDk\",\n\t\"gender\": \"\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/update",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"update"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"jhbkjl@@@\",\n\t\"phoneNumber\": \"18343337087\",\n\t\"emergencyContact\": \"三梦奇缘\",\n\t\"emergencyPhone\": \"18343337024\",\n\t\"avatarUrl\": \"https://thirdwx.qlogo.cn/mmopen/vi_32/CiaGDhXjoywZ6yKbxCXSIIlWRJ9cHic8FpeGgkUbLdNib9SlYf6a0jiczJkLHhJYhghT2Bjput8RBkJAVyxZ8YwIFA/132\",\n\t\"username\": \"ozF5r5YVR4r9OysQxBjI9-89UbDk\",\n\t\"gender\": \"\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/update",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"update"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"jhbkjl@@@\",\n\t\"phoneNumber\": \"18343337087\",\n\t\"emergencyContact\": \"三梦奇缘\",\n\t\"emergencyPhone\": \"18343337024\",\n\t\"avatarUrl\": \"https://thirdwx.qlogo.cn/mmopen/vi_32/CiaGDhXjoywZ6yKbxCXSIIlWRJ9cHic8FpeGgkUbLdNib9SlYf6a0jiczJkLHhJYhghT2Bjput8RBkJAVyxZ8YwIFA/132\",\n\t\"username\": \"ozF5r5YVR4r9OysQxBjI9-89UbDk\",\n\t\"gender\": \"\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/update",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"update"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"jhbkjl@@@\",\n\t\"phoneNumber\": \"18343337087\",\n\t\"emergencyContact\": \"三梦奇缘\",\n\t\"emergencyPhone\": \"18343337024\",\n\t\"avatarUrl\": \"https://thirdwx.qlogo.cn/mmopen/vi_32/CiaGDhXjoywZ6yKbxCXSIIlWRJ9cHic8FpeGgkUbLdNib9SlYf6a0jiczJkLHhJYhghT2Bjput8RBkJAVyxZ8YwIFA/132\",\n\t\"username\": \"ozF5r5YVR4r9OysQxBjI9-89UbDk\",\n\t\"gender\": \"\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/update",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"update"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"jhbkjl@@@\",\n\t\"phoneNumber\": \"18343337087\",\n\t\"emergencyContact\": \"三梦奇缘\",\n\t\"emergencyPhone\": \"18343337024\",\n\t\"avatarUrl\": \"https://thirdwx.qlogo.cn/mmopen/vi_32/CiaGDhXjoywZ6yKbxCXSIIlWRJ9cHic8FpeGgkUbLdNib9SlYf6a0jiczJkLHhJYhghT2Bjput8RBkJAVyxZ8YwIFA/132\",\n\t\"username\": \"ozF5r5YVR4r9OysQxBjI9-89UbDk\",\n\t\"gender\": \"\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/update",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"update"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"jhbkjl@@@\",\n\t\"phoneNumber\": \"18343337087\",\n\t\"emergencyContact\": \"三梦奇缘\",\n\t\"emergencyPhone\": \"18343337024\",\n\t\"avatarUrl\": \"https://thirdwx.qlogo.cn/mmopen/vi_32/CiaGDhXjoywZ6yKbxCXSIIlWRJ9cHic8FpeGgkUbLdNib9SlYf6a0jiczJkLHhJYhghT2Bjput8RBkJAVyxZ8YwIFA/132\",\n\t\"username\": \"ozF5r5YVR4r9OysQxBjI9-89UbDk\",\n\t\"gender\": \"\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/update",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"update"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"name\": \"jhbkjl@@@\",\n\t\"phoneNumber\": \"18343337087\",\n\t\"emergencyContact\": \"三梦奇缘\",\n\t\"emergencyPhone\": \"18343337024\",\n\t\"avatarUrl\": \"https://thirdwx.qlogo.cn/mmopen/vi_32/CiaGDhXjoywZ6yKbxCXSIIlWRJ9cHic8FpeGgkUbLdNib9SlYf6a0jiczJkLHhJYhghT2Bjput8RBkJAVyxZ8YwIFA/132\",\n\t\"username\": \"ozF5r5YVR4r9OysQxBjI9-89UbDk\",\n\t\"gender\": \"\"}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/update",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"update"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		}
+	]
+}

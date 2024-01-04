@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "a21ede38-10d1-4f76-a234-79f143b5acab",
+		"name": "activate",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29092836",
+		"_collection_link": "https://interstellar-satellite-615454.postman.co/workspace/APIUSerTest~a5b5f6ad-3765-45e3-9e10-29bb0939e02a/collection/29092836-a21ede38-10d1-4f76-a234-79f143b5acab?action=share&source=collection_link&creator=29092836"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

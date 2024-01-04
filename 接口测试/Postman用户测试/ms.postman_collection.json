@@ -1,0 +1,1402 @@
+{
+	"info": {
+		"_postman_id": "00b7562b-ea1f-4d1e-b294-3f429ac0d400",
+		"name": "ms",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29092836",
+		"_collection_link": "https://interstellar-satellite-615454.postman.co/workspace/APIUSerTest~a5b5f6ad-3765-45e3-9e10-29bb0939e02a/collection/29092836-00b7562b-ea1f-4d1e-b294-3f429ac0d400?action=share&source=collection_link&creator=29092836"
+	},
+	"item": [
+		{
+			"name": "TC001",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \n\t\"username\": \"iamxiaosanmeng\",\n\t\"password\": \"e10adc3949ba59abbe56e057f20f883e\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC002",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"iamxiaosanmeng\",\n\t\"password\": \"e10adc3949ba59abbe56e057f20f883e\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC003",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"iamliumi\",\n\t\"password\": \"827ccb0eea8a706c4c34a16891f84e7b\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC004",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"iamliumi\",\n\t\"password\": \"\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC005",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"iamsimeng\",\n\t\"password\": \"827ccb0eea8a706c4c34a16891f84e7b\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC006",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"我爱看三生三世十里桃花\",\n\t\"password\": \"827ccb0eea8a706c4c34a16891f84e7b\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC007",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"。      \",\n\t\"password\": \"827ccb0eea8a706c4c34a16891f84e7b\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC008",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"我爱看甄嬛传\",\n\t\"password\": \"898989\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC009",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"iambritny\",\n\t\"password\": \"16233fd987d930b42d8648beafad0122\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC010",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"iamchristina\",\n\t\"password\": \"c0fba5ba90c1a6b93723408618bd8563\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC011",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"ecnu_admin\",\n\t\"password\": \"c0fba5ba90c1a6b93723408618bd8563\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC012",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"quanxingrun\",\n\t\"password\": \"c0fba5ba90c1a6b93723408618bd8563\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC013",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"ecnu_admin\",\n\t\"password\": \"c0fba5ba90c1a6b93723408618bd8563\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "TC014",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n\t\"username\": \"ecnu_admin\",\n\t\"password\": \"c0fba5ba90c1a6b93723408618bd8563\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"counselor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		},
+		{
+			"name": "TC015",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"iamdemi\",\n\t\"password\": \"c0fba5ba90c1a6b93723408618bd8563\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC016",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"username\": \"iamnick\",\n\t\"password\": \"c0fba5ba90c1a6b93723408618bd8563\",\n    \"role\": \"ROLE_COUNSELOR\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC017",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "TC018",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC019",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC020",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC021",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC022",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC023",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC024",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC025",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC026",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC027",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC028",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC029",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC030",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC031",
+					"originalRequest": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"username\": \"iamhot2\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		},
+		{
+			"name": "TC032",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"username\": \"iamhotc\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222222200212032222\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC033",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC034",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"username\": \"iamhotg\",\n  \"password\": \"173afad5992a3f73a472fc09b05b1fb7\",\n  \"role\":\"ROLE_SUPERVISOR\",\n  \"idNumber\" : \"222401222212031111\",\n  \"phoneNumber\" : \"18343337087\",\n  \"name\" : \"一样迁徙\"\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC035",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\" : \"impiaozongxing\",\n    \"password\" : \"e10adc3949ba59abbe56e057f20f883e\",\n    \"name\" : \"电视机\",\n    \"phoneNumber\" : \"18343337087\",\n    \"idNumber\" : \"222401200212031201\",\n    \"department\" : \"1\",\n    \"title\" : \"1\",\n    \"qualification\" : \"一级\",\n    \"qualificationcode\" : \"督导资质编号\",\n    \"email\" : \"18343337087@qq.com\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/2c90d7068cc90f1c018cc97cc9500016",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"2c90d7068cc90f1c018cc97cc9500016"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "TC035",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\" : \"impiaozongxing\",\n    \"password\" : \"e10adc3949ba59abbe56e057f20f883e\",\n    \"name\" : \"电视机\",\n    \"phoneNumber\" : \"18343337087\",\n    \"idNumber\" : \"222401200212031201\",\n    \"department\" : \"1\",\n    \"title\" : \"1\",\n    \"qualification\" : \"一级\",\n    \"qualificationcode\" : \"督导资质编号\",\n    \"email\" : \"18343337087@qq.com\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/2c90d7068cc90f1c018cc97cc9500016",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor",
+								"2c90d7068cc90f1c018cc97cc9500016"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC035",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\" : \"impiaozongxing\",\n    \"password\" : \"e10adc3949ba59abbe56e057f20f883e\",\n    \"name\" : \"电视机\",\n    \"phoneNumber\" : \"18343337087\",\n    \"idNumber\" : \"222401200212031201\",\n    \"department\" : \"1\",\n    \"title\" : \"1\",\n    \"qualification\" : \"一级\",\n    \"qualificationcode\" : \"督导资质编号\",\n    \"email\" : \"18343337087@qq.com\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/2c90d7068cc90f1c018cc97cc9500016",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor",
+								"2c90d7068cc90f1c018cc97cc9500016"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC035",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\" : \"impiaozongxing\",\n    \"password\" : \"e10adc3949ba59abbe56e057f20f883e\",\n    \"name\" : \"电视机\",\n    \"phoneNumber\" : \"18343337087\",\n    \"idNumber\" : \"222401200212031201\",\n    \"department\" : \"1\",\n    \"title\" : \"1\",\n    \"qualification\" : \"一级\",\n    \"qualificationcode\" : \"督导资质编号\",\n    \"email\" : \"18343337087@qq.com\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/2c90d7068cc90f1c018cc97cc9500016",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor",
+								"2c90d7068cc90f1c018cc97cc9500016"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC035",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\" : \"impiaozongxing\",\n    \"password\" : \"e10adc3949ba59abbe56e057f20f883e\",\n    \"name\" : \"电视机\",\n    \"phoneNumber\" : \"18343337087\",\n    \"idNumber\" : \"222401200212031201\",\n    \"department\" : \"1\",\n    \"title\" : \"1\",\n    \"qualification\" : \"一级\",\n    \"qualificationcode\" : \"督导资质编号\",\n    \"email\" : \"18343337087@qq.com\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/2c90d7068cc90f1c018cc97cc9500016",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor",
+								"2c90d7068cc90f1c018cc97cc9500016"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"name": "TC035",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"username\" : \"impiaozongxing\",\n    \"password\" : \"e10adc3949ba59abbe56e057f20f883e\",\n    \"name\" : \"电视机\",\n    \"phoneNumber\" : \"18343337087\",\n    \"idNumber\" : \"222401200212031201\",\n    \"department\" : \"1\",\n    \"title\" : \"1\",\n    \"qualification\" : \"一级\",\n    \"qualificationcode\" : \"督导资质编号\",\n    \"email\" : \"18343337087@qq.com\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/2c90d7068cc90f1c018cc97cc9500016",
+							"protocol": "https",
+							"host": [
+								"sei-test",
+								"021hqit",
+								"com"
+							],
+							"path": [
+								"group-1",
+								"liwa-api",
+								"user",
+								"ms",
+								"supervisor",
+								"2c90d7068cc90f1c018cc97cc9500016"
+							]
+						}
+					},
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": null
+				}
+			]
+		}
+	]
+}

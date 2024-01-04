@@ -1,0 +1,45 @@
+{
+	"info": {
+		"_postman_id": "e94a3369-1f6c-4784-9850-c0647dd21792",
+		"name": "wxLogin",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29092836",
+		"_collection_link": "https://interstellar-satellite-615454.postman.co/workspace/APIUSerTest~a5b5f6ad-3765-45e3-9e10-29bb0939e02a/collection/29092836-e94a3369-1f6c-4784-9850-c0647dd21792?action=share&source=collection_link&creator=29092836"
+	},
+	"item": [
+		{
+			"name": "TC001",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"appid\": \"1400588829\",\n  \"code\": \"0a3GpX000B5gfR13vm0008q5GJ3GpX0F\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/auth/wx/1400588829/login",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"auth",
+						"wx",
+						"1400588829",
+						"login"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

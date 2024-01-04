@@ -1,0 +1,316 @@
+{
+	"info": {
+		"_postman_id": "b14aaa48-9879-46b1-bbe3-58846e8c8e9e",
+		"name": "delete",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29092836",
+		"_collection_link": "https://interstellar-satellite-615454.postman.co/workspace/APIUSerTest~a5b5f6ad-3765-45e3-9e10-29bb0939e02a/collection/29092836-b14aaa48-9879-46b1-bbe3-58846e8c8e9e?action=share&source=collection_link&creator=29092836"
+	},
+	"item": [
+		{
+			"name": "TC036",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/imhmj",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"imhmj"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC035",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\" : \"imhmj\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/imhmj",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"imhmj"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC038",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\" :\"qwe\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/qwe",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"qwe"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC039",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\" : \"iamhot7\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/iamhot7",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"iamhot7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC040",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\" : \"iamhot7\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/iamhot7",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"iamhot7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC041",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\" : \"iambritney\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor/iambritney",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor",
+						"iambritney"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC042",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\" : \"iamhot6\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor/iamhot6",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor",
+						"iamhot6"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC043",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\":\"iamxiaosanme\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor/iamxiaosanme",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor",
+						"iamxiaosanme"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC044",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\" : \"iamchristina\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor/iamchristina",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor",
+						"iamchristina"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC045",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

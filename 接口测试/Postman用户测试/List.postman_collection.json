@@ -1,0 +1,353 @@
+{
+	"info": {
+		"_postman_id": "848d174b-a8dc-4e6b-98d5-f9c1b3392b56",
+		"name": "List",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29092836",
+		"_collection_link": "https://interstellar-satellite-615454.postman.co/workspace/APIUSerTest~a5b5f6ad-3765-45e3-9e10-29bb0939e02a/collection/29092836-848d174b-a8dc-4e6b-98d5-f9c1b3392b56?action=share&source=collection_link&creator=29092836"
+	},
+	"item": [
+		{
+			"name": "TC001",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC002",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC003",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC004",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC005",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC006",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC007",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC008",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC009",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC010",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC011",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counselor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counselor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC012",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/supervisor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"supervisor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC013",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/ms/counsellor/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"ms",
+						"counsellor",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "TC014",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/user/list",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"user",
+						"list"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

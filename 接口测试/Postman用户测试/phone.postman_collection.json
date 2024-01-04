@@ -1,0 +1,53 @@
+{
+	"info": {
+		"_postman_id": "a7c49111-57a2-4f3b-85d2-73ab259ad80b",
+		"name": "phone",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29092836",
+		"_collection_link": "https://interstellar-satellite-615454.postman.co/workspace/APIUSerTest~a5b5f6ad-3765-45e3-9e10-29bb0939e02a/collection/29092836-a7c49111-57a2-4f3b-85d2-73ab259ad80b?action=share&source=collection_link&creator=29092836"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "TC001",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"encryptedData\":\"Fcnuem+yioNW5z/m6dH3e9LSG/R+hv41Q5mPR3Sj/ijiMq1rKerqUJ9WVf46ocrmr4mOFr39sChVk3mn5XKBf3jJ7IpXEujCfeyGt0Q+pkg3t1ttLzVGXNrHBWxucL17/0pSG7CuKY5NX6gxqBcTQuAf4oqEWcT/mKzL2ZCqlxZ5XJK5tuLc49mVRYDphOQP3eB2RVb4hOn2TiNRo57KrA==\",\"iv\":\"oaobsnU+burudEPNv65gZw==\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://sei-test.021hqit.com/group-1/liwa-api/wx/user/wx3613a079e6a03343/phone",
+					"protocol": "https",
+					"host": [
+						"sei-test",
+						"021hqit",
+						"com"
+					],
+					"path": [
+						"group-1",
+						"liwa-api",
+						"wx",
+						"user",
+						"wx3613a079e6a03343",
+						"phone"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
